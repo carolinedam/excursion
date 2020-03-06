@@ -29,3 +29,9 @@ body{
   font-size: 16;
   color: aquamarine;
 }
+
+/* Footer*/
+.footer{
+  text-align: right;
+  color: gray;
+}
